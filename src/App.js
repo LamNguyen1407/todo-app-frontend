@@ -58,7 +58,7 @@ function App() {
     <div className="App">
 
       <div className="container">
-        <h1>ToDo App</h1>
+        <h1>TODO APP FOR KIM LOI  ❤️ ❤️ ❤️ </h1>
 
         <div className="top">
           <input type="text"
